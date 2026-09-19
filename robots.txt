@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://luizhenrique2025.github.io/viidtec-landing-page/sitemap.xml
